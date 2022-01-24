@@ -1,0 +1,9 @@
+@startuml gestionDeStock
+class stock {
++ListProduits
++IDProduit
++Produits
++AjouteProduit()
++RetireProduit()
+}
+@enduml
